@@ -1,0 +1,11 @@
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Models\bin\Debug\net6.0\LabDemo.Models.deps.json
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Models\bin\Debug\net6.0\LabDemo.Models.dll
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Models\bin\Debug\net6.0\ref\LabDemo.Models.dll
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Models\bin\Debug\net6.0\LabDemo.Models.pdb
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Models\obj\Debug\net6.0\LabDemo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Models\obj\Debug\net6.0\LabDemo.Models.AssemblyInfoInputs.cache
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Models\obj\Debug\net6.0\LabDemo.Models.AssemblyInfo.cs
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Models\obj\Debug\net6.0\LabDemo.Models.csproj.CoreCompileInputs.cache
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Models\obj\Debug\net6.0\LabDemo.Models.dll
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Models\obj\Debug\net6.0\ref\LabDemo.Models.dll
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Models\obj\Debug\net6.0\LabDemo.Models.pdb

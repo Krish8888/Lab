@@ -1,0 +1,17 @@
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\bin\Debug\net6.0\LabDemo.Services.deps.json
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\bin\Debug\net6.0\LabDemo.Services.dll
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\bin\Debug\net6.0\ref\LabDemo.Services.dll
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\bin\Debug\net6.0\LabDemo.Services.pdb
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\bin\Debug\net6.0\LabDemo.DataProvider.dll
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\bin\Debug\net6.0\LabDemo.Models.dll
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\bin\Debug\net6.0\LabDemo.DataProvider.pdb
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\bin\Debug\net6.0\LabDemo.Models.pdb
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\obj\Debug\net6.0\LabDemo.Services.csproj.AssemblyReference.cache
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\obj\Debug\net6.0\LabDemo.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\obj\Debug\net6.0\LabDemo.Services.AssemblyInfoInputs.cache
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\obj\Debug\net6.0\LabDemo.Services.AssemblyInfo.cs
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\obj\Debug\net6.0\LabDemo.Services.csproj.CoreCompileInputs.cache
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\obj\Debug\net6.0\LabDemo.Services.csproj.CopyComplete
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\obj\Debug\net6.0\LabDemo.Services.dll
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\obj\Debug\net6.0\ref\LabDemo.Services.dll
+C:\Users\a843128\source\repos\LabDemo.Api\LabDemo.Services\obj\Debug\net6.0\LabDemo.Services.pdb
